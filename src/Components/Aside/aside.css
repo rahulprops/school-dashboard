@@ -1,0 +1,49 @@
+.aside-main{
+    width: 16%;
+    height: 100%;
+    position: absolute;
+    background-color:rgba(37, 70, 56);
+}
+.text-color{
+    color: #DAD3BE;
+}
+    
+
+.profile{
+    position:relative ;
+    left: 50px;
+    top: 40px;
+}
+.myimg{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+
+}
+.profile p{
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: 700;
+    position: relative;
+    left: 10px;
+}
+.mylist{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    gap: 25px;
+    position: relative;
+    top: 70px;
+}
+.mylistdata{
+    text-transform: capitalize;
+    font-size: 17px;
+    font-weight: 600;
+    
+}
+ .links{
+    text-decoration: none;
+    color: azure;
+    padding-left: 1vh;
+}

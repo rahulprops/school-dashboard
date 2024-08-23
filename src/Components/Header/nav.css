@@ -1,0 +1,11 @@
+.nav-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    background-color:#254336;
+    color:#DAD3BE;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
